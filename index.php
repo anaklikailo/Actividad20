@@ -10,9 +10,9 @@
     <ul>
         <li><a href="/pages/ej4.php">Ejercicio 4</a></li>
         <li><a href="/pages/ej5.php">Ejercicio 5</a></li>
-        <li><a href="/pages/ej6.php">Ejercicio 6/a></li>
-        <li><a href="/pages/ej7.php">Ejercicio 7/a></li>
-        <li><a href="/pages/ej8.php">Ejercicio 8/a></li>
+        <li><a href="/pages/ej6.php">Ejercicio 6</a></li>
+        <li><a href="/pages/ej7.php">Ejercicio 7</a></li>
+        <li><a href="/pages/ej8.php">Ejercicio 8</a></li>
 
     </ul>
 
